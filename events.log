@@ -1,0 +1,65 @@
+Displaying auditlog information
+1 record found at offset=0
+NetScaler V20 Performance Data
+NetScaler NS10.5: Build 53.nc, Date: Apr 20 2015, 11:00:58  
+
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-28 : EVENT STARTSYS 1 0 : System started - Memory 0MB
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-67 : EVENT ROUTEUP 2 0 : Route route(199.9.9.0_255.255.255.0) - State UP
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-3 : EVENT STATECHANGE 3 0 : Device "self node 199.9.9.10" - State INIT
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-72 : EVENT DEVICEUP 4 0 : Device "server_svc_NSSVC_AAA_127.0.0.1:8777(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-14 : EVENT UNKNOWN 5 0 : Device "server_svc_NSSVC_AAA_127.0.0.1:8777(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-17 : EVENT DEVICEUP 6 0 : Device "server_svc_NSSVC_HTTP_127.0.0.1:7776(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-6 : EVENT UNKNOWN 7 0 : Device "server_svc_NSSVC_HTTP_127.0.0.1:7776(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-63 : IPSEC Message 8 0 : "crypto: driver 4294967295 registers alg 1 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-84 : IPSEC Message 9 0 : "crypto: driver 4294967295 registers alg 2 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-4 : IPSEC Message 10 0 : "crypto: driver 4294967295 registers alg 3 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-0 : IPSEC Message 11 0 : "crypto: driver 4294967295 registers alg 16 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-4 : IPSEC Message 12 0 : "crypto: driver 4294967295 registers alg 6 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-160 : IPSEC Message 13 0 : "crypto: driver 4294967295 registers alg 7 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-255 : IPSEC Message 14 0 : "crypto: driver 4294967295 registers alg 18 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-29 : IPSEC Message 15 0 : "crypto: driver 4294967295 registers alg 19 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-185 : IPSEC Message 16 0 : "crypto: driver 4294967295 registers alg 20 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-64 : IPSEC Message 17 0 : "crypto: driver 4294967295 registers alg 15 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-1 : IPSEC Message 18 0 : "crypto: driver 4294967295 registers alg 9 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-10 : IPSEC Message 19 0 : "crypto: driver 4294967295 registers alg 10 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-1 : IPSEC Message 20 0 : "crypto: driver 4294967295 registers alg 13 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-40 : IPSEC Message 21 0 : "crypto: driver 4294967295 registers alg 14 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-171 : IPSEC Message 22 0 : "crypto: driver 4294967295 registers alg 11 flags 0 maxoplen 0
+"
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-141 : EVENT DEVICEDOWN 23 0 : Device "server_svc_cfg_NSSVC_SSL_TCP_199.9.9.10:3008(nsrpcs-127.0.0.1-3008)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-0 : EVENT UNKNOWN 24 0 : Device "server_svc_cfg_NSSVC_SSL_TCP_199.9.9.10:3008(nsrpcs-127.0.0.1-3008)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-125 : EVENT DEVICEDOWN 25 0 : Device "server_svc_cfg_NSSVC_SSL_199.9.9.10:443(nshttps-127.0.0.1-443)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-255 : EVENT UNKNOWN 26 0 : Device "server_svc_cfg_NSSVC_SSL_199.9.9.10:443(nshttps-127.0.0.1-443)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-94 : EVENT ROUTEUP 27 0 : Route route(127.0.0.0_255.0.0.0) - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-0 : EVENT DEVICEUP 28 0 : Device "server_svc_NSSVC_RPCSVR_199.9.9.10:3011(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-126 : EVENT UNKNOWN 29 0 : Device "server_svc_NSSVC_RPCSVR_199.9.9.10:3011(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-255 : EVENT DEVICEUP 30 0 : Device "server_svc_cfg_NSSVC_RPCSVRS_199.9.9.10:3009(nskrpcs-127.0.0.1-3009)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-9 : EVENT UNKNOWN 31 0 : Device "server_svc_cfg_NSSVC_RPCSVRS_199.9.9.10:3009(nskrpcs-127.0.0.1-3009)" - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-255 : EVENT DEVICEUP 32 0 : Device "server_svc_NSSVC_RPCSVR_127.0.0.1:5000(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-3 : EVENT UNKNOWN 33 0 : Device "server_svc_NSSVC_RPCSVR_127.0.0.1:5000(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-65 : EVENT DEVICEUP 34 0 : Device "server_svc_NSSVC_RPCSVR_9.0.0.12:5001(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-48 : EVENT UNKNOWN 35 0 : Device "server_svc_NSSVC_RPCSVR_9.0.0.12:5001(internal)" - State UP
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-65 : EVENT ROUTE6UP 36 0 : Route6 route6_(fe80::/64) - State UP
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-65 : EVENT ROUTE6UP 37 0 : Route6 route6_(::1/128) - State UP
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-50 : EVENT DEVICEDOWN 38 0 : Device "server_svc_internal_NSSVC_SSL_TCP_fe80::d8d4:27ff:fe8d:b1c7:3008(nsrpcs-::1l-3008)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-9 : EVENT UNKNOWN 39 0 : Device "server_svc_internal_NSSVC_SSL_TCP_fe80::d8d4:27ff:fe8d:b1c7:3008(nsrpcs-::1l-3008)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-31 : EVENT DEVICEDOWN 40 0 : Device "server_svc_internal_NSSVC_SSL_fe80::d8d4:27ff:fe8d:b1c7:443(nshttps-::1l-443)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-129 : EVENT UNKNOWN 41 0 : Device "server_svc_internal_NSSVC_SSL_fe80::d8d4:27ff:fe8d:b1c7:443(nshttps-::1l-443)" - State DOWN
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-187 : EVENT STARTCPU 42 0 : CPU_started 0 - Frequency 2494MHz
+05/20/2015:21:59:16 GMT newnslog Informational 0-PPE-54 : EVENT CONFIGSTART 43 0 : CONFIG START
+05/20/2015:21:59:16 GMT newnslog Notice 0-PPE-129 : EVENT DEVICEUP 44 0 : Device "516" - State UP
+05/20/2015:21:59:16 GMT newnslog Debug 0-PPE-9 : EVENT UNKNOWN 45 0 : Device "516" - State UP
